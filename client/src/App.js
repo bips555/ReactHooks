@@ -4,6 +4,7 @@ import UseStateDataFetch from "./Components/useStateAnduseReducer/UseStateDataFe
 import UseReducerDataFetch from "./Components/useStateAnduseReducer/UseReducerDataFetch.js";
 import MainComponent from "./Components/UseCallbackPractice/MainComponent.js";
 import MyMemoCounter from "./Components/useMemoPractice/MyMemoCounter.js";
+import FocusInput from "./Components/useRefPractice/FocusInput.js";
 // const InitialState = 0;
 // const reducer = (state, action) => {
 //   switch (action) {
@@ -34,7 +35,8 @@ function App() {
     // </CountContext.Provider>
     // <UseStateDataFetch/>
     // <MainComponent/>
-    <MyMemoCounter/>
+    // <MyMemoCounter/>
+    <FocusInput/>
   );
 }
 
