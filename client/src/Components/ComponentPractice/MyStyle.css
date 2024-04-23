@@ -1,0 +1,12 @@
+.primary
+{
+    color: aqua;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.secondary
+{
+    color:aliceblue;
+    font-style:oblique;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
